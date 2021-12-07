@@ -5,6 +5,7 @@ permalink: /research/
 ---
 
 ![cover science](../images/science_cover.jpg){: width="225" }{: style="float: right"}
+*<b><i>Our article on the cover of Science Nov 12, 2021</i></b>*
 Themes of my research include data science, computational biology, comparative- and phylo-genomics.
 
 <h3>Comaparative genomics of phenotypic variation</h3>
