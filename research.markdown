@@ -5,8 +5,6 @@ permalink: /research/
 ---
 
 ![cover science](../images/science_cover.jpg){: width="225" }{: style="float: right"}{: caption="Our article featured on the cover of Science (November, 2021)"}
-{:.image-caption}
-*Our article featured on the cover of Science (Nov 12, 2021)*
 
 <br>Themes of my research include data science, computational biology, comparative- and phylo-genomics.
 
