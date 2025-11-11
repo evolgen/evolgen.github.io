@@ -6,7 +6,7 @@ permalink: /research/
 
 ![cover science](../images/science_cover.jpg "Our article featured on the cover of Science (November, 2021)"){: width="225" }{: style="float: right"}
 
-<br>Themes of my research include data science, computational biology, comparative- and phylo-genomics.
+<br>Themes of my research include data science, computational biology, comparative- and phylo-genomics. Apart from the research areas below, my industrial research has been on genetic diseases with unpublished work related to scRNAseq, WGS, proteomcis and disease modalities.
 
 <h3>Comaparative genomics of phenotypic variation</h3>
 All living systems age with passing time, making aging an interestingly common phenomenon across the tree of life. In animals, maximum lifespan is usually similar to body size. However, there are a few exceptional species which defy this pattern such as Humans, Bowerhead whales, Greenland sharks, Tortoises, Bats and Rockfishes. Rockfishes are fantastic models to uncover the secrets to longevity since rockfish species live 10-200 years, covering a wide range of lifespans between species thus making them apt to study the genetic signatures of aging. <b>Generating Rockfish genome assemblies and employing comparative phylogenomic methods, we identified genes and mutational signatures which are [The Causes and Consequences](https://www.science.org/doi/10.1126/science.abg5332) of lifespan variaton</b>.
