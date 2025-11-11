@@ -18,4 +18,4 @@ Selection pressure and accumulation of mutations are the primary drivers of geno
 Deleterious mutations in the genome lead to disease phenotypes in plants and animals. These mutations can be small (point - SNVs) or large (structural - SVs and CNVs), with latter being better understood now with advances in sequencing technologies. Detecting [structural variation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007933) and [disease causing variants](https://www.sciencedirect.com/science/article/pii/S2001037020304360) can help understand the causes and identify genetic elements which can act as drug targets against disease/infections. <b>I have developed computational pipelines to locate genomic regions of interest associated with diseases which will help make informed decisions for personalised medicine and gene therapy</b>.
 
 <br>
-[LinkedIn](https://www.linkedin.com/in/rohit-kolora-phd-b4046712a/) / [GScholar](https://scholar.google.com/citations?user=HET8_okAAAAJ&hl=en) 
+[LinkedIn](https://www.linkedin.com/in/rohit-kolora-phd-b4046712a/) / [GScholar](https://scholar.google.com/citations?user=zIXpIqsAAAAJ&hl=en) 
